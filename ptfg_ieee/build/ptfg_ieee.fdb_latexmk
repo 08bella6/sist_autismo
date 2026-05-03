@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex build/ptfg_ieee"] 1777780930.50398 "build/ptfg_ieee.aux" "build/ptfg_ieee.bbl" "build/ptfg_ieee" 1777780932.13438 0
+["bibtex build/ptfg_ieee"] 1777784067.37073 "build/ptfg_ieee.aux" "build/ptfg_ieee.bbl" "build/ptfg_ieee" 1777784073.84537 0
   "./IEEEtran-castellano.bst" 1777767259 60155 0d1aa2bfa970b02fc94220751edbd299 ""
   "./refer.bib" 1777780126 8127 64adb8ec7a81844c70a8e38bd6afef4a ""
-  "build/ptfg_ieee.aux" 1777780931 7585 80cfe1e41db8c2488454b711cb083df3 "pdflatex"
+  "build/ptfg_ieee.aux" 1777784073 7787 c51d178b1181ca8ba2819f26954dd4d6 "pdflatex"
   (generated)
   "build/ptfg_ieee.bbl"
   "build/ptfg_ieee.blg"
   (rewritten before read)
-["pdflatex"] 1777780930.7655 "c:/Users/marti/OneDrive/Documentos/tfg/ptfg_ieee/sist_autismo/ptfg_ieee/ptfg_ieee.tex" "build/ptfg_ieee.pdf" "ptfg_ieee" 1777780932.13498 0
+["pdflatex"] 1777784067.61732 "c:/Users/marti/OneDrive/Documentos/tfg/ptfg_ieee/sist_autismo/ptfg_ieee/ptfg_ieee.tex" "build/ptfg_ieee.pdf" "ptfg_ieee" 1777784073.84598 0
   "C:/Users/marti/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1774044704 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/marti/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1772587935 14064 f27656d7708cca0e48b11f6a2dd89908 ""
   "C:/Users/marti/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1772587766 13333486 6e15039da2ef27d304489fd70cf43756 ""
@@ -119,12 +119,13 @@
   "C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/marti/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "build/ptfg_ieee.aux" 1777780931 7585 80cfe1e41db8c2488454b711cb083df3 "pdflatex"
-  "build/ptfg_ieee.bbl" 1777780930 7340 9060a20cd859a6aef8a75430063a2e74 "bibtex build/ptfg_ieee"
-  "build/ptfg_ieee.out" 1777780931 7399 2d01c8953a1a3ad94c97c002746109a1 "pdflatex"
-  "build/ptfg_ieee.toc" 1777780931 3354 15226f1e48f679972eb7eb37ed8e0829 "pdflatex"
-  "c:/Users/marti/OneDrive/Documentos/tfg/ptfg_ieee/sist_autismo/ptfg_ieee/ptfg_ieee.tex" 1777780926 53061 6caafb59002e0caa738a8ea992c8e0fe ""
-  "ptfg_ieee.tex" 1777780926 53061 6caafb59002e0caa738a8ea992c8e0fe ""
+  "build/ptfg_ieee.aux" 1777784073 7787 c51d178b1181ca8ba2819f26954dd4d6 "pdflatex"
+  "build/ptfg_ieee.bbl" 1777784067 7340 9060a20cd859a6aef8a75430063a2e74 "bibtex build/ptfg_ieee"
+  "build/ptfg_ieee.out" 1777784073 7399 2d01c8953a1a3ad94c97c002746109a1 "pdflatex"
+  "build/ptfg_ieee.toc" 1777784073 3354 9d5a9b2a4dd4e732d66dc2aa2a73742f "pdflatex"
+  "c:/Users/marti/OneDrive/Documentos/tfg/ptfg_ieee/sist_autismo/ptfg_ieee/ptfg_ieee.tex" 1777784060 53234 563ce959cdd73ea6a253a4b8ecf18178 ""
+  "ptfg_ieee.tex" 1777784060 53234 563ce959cdd73ea6a253a4b8ecf18178 ""
+  "web_autismo.png" 1776797412 3138638 60141d6d7181097805a59bb38acb2365 ""
   (generated)
   "build/ptfg_ieee.aux"
   "build/ptfg_ieee.log"

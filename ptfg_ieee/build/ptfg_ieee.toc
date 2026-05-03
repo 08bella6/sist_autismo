@@ -23,7 +23,7 @@
 \contentsline {subsubsection}{\numberline {7.1.8}Dise\~no web}{14}{subsubsection.7.1.8}%
 \contentsline {paragraph}{\numberline {7.1.8.1}Interfaz de Usuario y Arquitectura de Integraci\'on Web}{14}{paragraph.7.1.8.1}%
 \contentsline {paragraph}{\numberline {7.1.8.2}Arquitectura del Lado del Cliente (Frontend)}{14}{paragraph.7.1.8.2}%
-\contentsline {paragraph}{\numberline {7.1.8.3}Comunicaci\'on y Servicios de Red (Backend)}{15}{paragraph.7.1.8.3}%
+\contentsline {paragraph}{\numberline {7.1.8.3}Comunicaci\'on y Servicios de Red (Backend)}{16}{paragraph.7.1.8.3}%
 \contentsline {paragraph}{\numberline {7.1.8.4}Gesti\'on de Seguridad y Privacidad de Datos}{16}{paragraph.7.1.8.4}%
 \contentsline {paragraph}{\numberline {7.1.8.5}Visualizaci\'on de Resultados y Dise\~no de Interacci\'on}{16}{paragraph.7.1.8.5}%
 \contentsline {subsection}{\numberline {7.2}Antecedentes}{17}{subsection.7.2}%
