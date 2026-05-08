@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.3)  23 APR 2026 22:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.3)  7 MAY 2026 22:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/user/Downloads/ptfg_ieee/ptfg_ieee/ptfg_ieee.tex
-(c:/Users/user/Downloads/ptfg_ieee/ptfg_ieee/ptfg_ieee.tex
+**c:/Users/user/Documents/tfg_02/tfg-autismo/ptfg_ieee/ptfg_ieee.tex
+(c:/Users/user/Documents/tfg_02/tfg-autismo/ptfg_ieee/ptfg_ieee.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -454,58 +454,83 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip79
+) (C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip80
+\LTright=\skip81
+\LTpre=\skip82
+\LTpost=\skip83
+\LTchunksize=\count331
+\LTcapwidth=\dimen188
+\LT@head=\box108
+\LT@firsthead=\box109
+\LT@foot=\box110
+\LT@lastfoot=\box111
+\LT@gbox=\box112
+\LT@cols=\count332
+\LT@rows=\count333
+\c@LT@tables=\count334
+\c@LT@chunks=\count335
+\LT@p@ftn=\toks42
 )
-\c@teorema=\count331
+\c@teorema=\count336
  (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count332
+\l__color_backend_stack_int=\count337
 ) (ptfg_ieee.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
 (babel)             Reported on input line 11.
+
+
+LaTeX Warning: Label `tab:cronograma2' multiply defined.
+
+
+LaTeX Warning: Label `tab:cronograma2' multiply defined.
+
 )
 \openout1 = `ptfg_ieee.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count333
-\scratchdimen=\dimen188
-\scratchbox=\box108
-\nofMPsegments=\count334
-\nofMParguments=\count335
-\everyMPshowfont=\toks42
-\MPscratchCnt=\count336
-\MPscratchDim=\dimen189
-\MPnumerator=\count337
-\makeMPintoPDFobject=\count338
-\everyMPtoPDFconversion=\toks43
+\scratchcounter=\count338
+\scratchdimen=\dimen189
+\scratchbox=\box113
+\nofMPsegments=\count339
+\nofMParguments=\count340
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count341
+\MPscratchDim=\dimen190
+\MPnumerator=\count342
+\makeMPintoPDFobject=\count343
+\everyMPtoPDFconversion=\toks44
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -541,7 +566,7 @@ LaTeX Info: Redefining \% on input line 31.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 32.
 (ptfg_ieee.out) (ptfg_ieee.out)
 \@outlinefile=\write3
 \openout3 = `ptfg_ieee.out'.
@@ -549,17 +574,17 @@ Package hyperref Info: Link coloring OFF on input line 31.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 43.
+(Font)              using `OT1/cmr/bx/n' instead on input line 44.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
 
  []
 
@@ -569,20 +594,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--72
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
-Overfull \hbox (9.24756pt too wide) in paragraph at lines 18--18
- [][] [][]\OT1/cmr/m/n/12 Fundamentos de la Com-bi-na-ci^^Son Espacio-Temporal[] [][]  
- []
-
-
-Overfull \hbox (0.66154pt too wide) in paragraph at lines 21--21
- [][] [][]\OT1/cmr/m/n/12 Flujo de Da-tos y Cla-si-fi-ca-ci^^Son de Pa-tro-nes Con- 
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 ...cias Bibliogr\'aficas}{22}{subsection.8.3}
+l.38 ... {8.2}Lista de tareas}{21}{subsection.8.2}
                                                   % [1])
 \tf@toc=\write4
 \openout4 = `ptfg_ieee.toc'.
@@ -591,88 +606,229 @@ l.33 ...cias Bibliogr\'aficas}{22}{subsection.8.3}
 
 LaTeX Warning: No \author given.
 
-[3] [4] [5] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
+[3] [4] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
-
- []
-
-[8]
-Overfull \hbox (88.72777pt too wide) in paragraph at lines 221--287
- [][] 
- []
-
-[9]
-Overfull \vbox (49.23907pt too high) has occurred while \output is active []
-
- [10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 331--332
-
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
-
- []
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
-
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 392--393
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 400--401
-
- []
-
-[15] [16] [17]
-Overfull \hbox (4.35532pt too wide) in paragraph at lines 443--444
-[]\OT1/cmr/m/n/12 El ni-vel de in-ves-ti-ga-ci^^Son se cla-si-fi-ca co-mo Apli-ca-da y Tec-nol^^Sogi-ca. El prop^^Sosi-
- []
-
-[18] [19]
-Overfull \hbox (9.92284pt too wide) in paragraph at lines 501--502
+[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+<aut.png, id=326, 590.95781pt x 306.39468pt>
+File: aut.png Graphic file (type png)
+<use aut.png>
+Package pdftex.def Info: aut.png  used on input line 455.
+(pdftex.def)             Requested size: 398.3386pt x 206.53165pt.
+ [20 <./aut.png>] [21]
+Overfull \hbox (9.92284pt too wide) in paragraph at lines 518--519
 []\OT1/cmr/bx/n/12 Objetivo 7: \OT1/cmr/m/n/12 Ela-bo-rar una pla-ta-for-ma web que in-te-gre el mo-de-lo de diagn^^Sosti-
  []
 
-[20]
-Overfull \vbox (64.18951pt too high) has occurred while \output is active []
 
- [21] (ptfg_ieee.bbl) [22] (ptfg_ieee.aux
+Overfull \hbox (43.29176pt too wide) in alignment at lines 539--548
+ [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (43.29176pt too wide) in alignment at lines 548--558
+ [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 560--561
+\OT1/cmr/m/n/10.95 qui-rir co-no-ci-mien-
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 560--561
+\OT1/cmr/m/n/10.95 log^^S^^Pa CNN-LSTM
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 573--574
+\OT1/cmr/m/n/10.95 duc-tua-les aso-cia-dos al
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 583--584
+[]|\OT1/cmr/bx/n/10.95 Objetivo 2: \OT1/cmr/m/n/10.95 Re-
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 583--584
+\OT1/cmr/m/n/10.95 co-lec-tar los da-tos
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 583--584
+\OT1/cmr/m/n/10.95 con-duc-tua-les aso-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+[]|\OT1/cmr/bx/n/10.95 Objetivo 3:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+\OT1/cmr/m/n/10.95 Di-se~nar la ar-
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 606--607
+\OT1/cmr/m/n/10.95 qui-tec-tu-ra de un
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+\OT1/cmr/m/n/10.95 re-des neu-ro-na-les
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 629--630
+\OT1/cmr/m/n/10.95 pro-ce-sar im^^Sage-nes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--643
+[]|\OT1/cmr/m/n/10.95 b) Nor-ma-li-za-ci^^Son y
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 652--653
+\OT1/cmr/m/n/10.95 tre-nar el mo-de-lo
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 654--655
+[]|\OT1/cmr/m/n/10.95 a) En-tre-na-mien-to del
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 665--666
+[]|\OT1/cmr/m/n/10.95 b) Ajus-te de hi-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
+\OT1/cmr/m/n/10.95 bo-rar pla-ta-for-ma
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 725--726
+\OT1/cmr/m/n/10.95 dar fun-cio-na-mien-
+ []
+
+
+Overfull \hbox (43.29176pt too wide) in alignment at lines 558--750
+ [] [] [] [] [] [] [] [] 
+ []
+
+c:/Users/user/Documents/tfg_02/tfg-autismo/ptfg_ieee/ptfg_ieee.tex:750: ignored error: Infinite glue shrinkage found in box being split [22]
+c:/Users/user/Documents/tfg_02/tfg-autismo/ptfg_ieee/ptfg_ieee.tex:750: ignored error: Infinite glue shrinkage found in box being split [23] [24]
+Overfull \hbox (82.14319pt too wide) in alignment at lines 798--811
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (82.14319pt too wide) in alignment at lines 811--822
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 826--827
+[]|\OT1/cmr/m/n/10 a) Re-vi-si^^Son de con-cep-
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 830--831
+[]|\OT1/cmr/m/n/10 Tecnolog^^S^^Pa apli-ca-da
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 832--834
+[]|\OT1/cmr/m/n/10 Marco te^^Sori-co ela-bo-ra-do
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 832--834
+\OT1/cmr/m/n/10 tec-no-log^^S^^Pas apli-ca-bles al
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 836--837
+[]|\OT1/cmr/m/n/10 2. Re-co-lec-tar los da-tos
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 842--843
+[]|\OT1/cmr/m/n/10 Herramienta de vi-
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 856--858
+\OT1/cmr/m/n/10 fun-ci^^Son de ac-ti-va-ci^^Son y
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 860--861
+[]|\OT1/cmr/m/n/10 4. Pre-pro-ce-sar im^^Sage-nes
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 868--869
+[]|\OT1/cmr/m/n/10 Herramienta de vi-
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 870--872
+[]|\OT1/cmr/m/n/10 Resoluci^^Son de im^^Sage-nes,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 882--884
+[]|\OT1/cmr/m/n/10 Tasa de apren-di-za-je,
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 882--884
+\OT1/cmr/m/n/10 n^^Sume-ro de ^^Sepo-cas, ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--887
+\OT1/cmr/m/n/10 del mo-de-lo me-dian-te
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 898--899
+\OT1/cmr/m/n/10 del mo-de-lo me-dian-te
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--911
+\OT1/cmr/m/n/10 del mo-de-lo me-dian-te
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 934--935
+[]|\OT1/cmr/m/n/10 10. Va-li-dar el fun-cio-na-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 936--937
+[]|\OT1/cmr/m/n/10 a) Prue-bas fun-cio-na-les
+ []
+
+
+Overfull \hbox (82.14319pt too wide) in alignment at lines 822--946
+ [] [] [] [] 
+ []
+
+c:/Users/user/Documents/tfg_02/tfg-autismo/ptfg_ieee/ptfg_ieee.tex:946: ignored error: Infinite glue shrinkage found in box being split [25] (ptfg_ieee.bbl [26]) [27] (ptfg_ieee.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -684,21 +840,24 @@ L3 programming layer <2025-12-24>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `ptfg_ieee.out' has not changed.
-(rerunfilecheck)             Checksum: C40C394D4F866350031A8C5F3220C31C;7213.
+(rerunfilecheck)             Checksum: 3DC6B4F57A45B518981E89AFE3F8FE6E;8640.
  ) 
 Here is how much of TeX's memory you used:
- 13993 strings out of 467871
- 216017 string characters out of 5428447
- 682630 words of memory out of 5000000
- 42567 multiletter control sequences out of 15000+600000
- 640025 words of font info for 87 fonts, out of 8000000 for 9000
+ 14142 strings out of 467871
+ 218358 string characters out of 5428447
+ 692515 words of memory out of 5000000
+ 42694 multiletter control sequences out of 15000+600000
+ 642176 words of font info for 95 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 75i,12n,83p,1081b,785s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on ptfg_ieee.pdf (23 pages, 203719 bytes).
+ 75i,13n,83p,1091b,799s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on ptfg_ieee.pdf (28 pages, 504982 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 91 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 461 PDF objects out of 1000 (max. 8388607)
+ 109 named destinations out of 1000 (max. 500000)
+ 318 words of extra memory for PDF output out of 10000 (max. 10000000)
 
